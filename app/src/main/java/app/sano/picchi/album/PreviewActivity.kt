@@ -15,5 +15,7 @@ class PreviewActivity : AppCompatActivity() {
         backButton.setOnClickListener{
             finish()
         }
+
+        //テスト
     }
 }
